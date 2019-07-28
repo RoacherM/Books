@@ -1,5 +1,4 @@
 # Books
-<<<<<<< HEAD
 机器学习、深度学习入门
 索引
 ├─Basic
@@ -33,6 +32,4 @@
         Numpy&Pandas.pdf
         Python.pdf
         Simulation.pdf
-=======
-机器学习有关书籍
 >>>>>>> 16531fa2764a0e0be1fcffb37ea61b15fd05bdfe
