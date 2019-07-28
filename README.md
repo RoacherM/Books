@@ -1,34 +1,55 @@
 # Books
 机器学习、深度学习入门
 
-索引
-|--Basic
-   Beauty Of Mathmetics.pdf
-   Matrix.pdf
-   Optimization.pdf
-   Standard probability and Statistics.pdf
+索引  
 
-|--Computer Vision
-   A guide to convolution arithmetic for deep learning .pdf
-   解析卷积神经网络.pdf
-|--Deep Learning
-   dlbook_cn_v0.5-beta.pdf
+|--Basic  
 
-|--Frame
-   MXnet.pdf
-   Tensorflow.pdf
+   Beauty Of Mathmetics.pdf  
+   
+   Matrix.pdf  
+   
+   Optimization.pdf  
+   
+   Standard probability and Statistics.pdf  
 
-|--Machine Learning
-   Machine Learning in Action.pdf
-   Pattern Recognition And Machine Learning - Springer  2006.pdf
-   西瓜书.pdf
+|--Computer Vision  
+   
+   A guide to convolution arithmetic for deep learning .pdf  
+   
+   解析卷积神经网络.pdf  
+   
+|--Deep Learning  
 
-|--Nerual Language Processing
-   Natural Language Processing.pdf
-   Neural Network Methods in Natural Language Processing.pdf
-   Speech and Language Processing.pdf
+   dlbook_cn_v0.5-beta.pdf  
 
-|--Python
-   Pandas.pdf
-   Python.pdf
-   Simulation.pdf
+|--Frame  
+
+   MXnet.pdf  
+   
+   Tensorflow.pdf  
+
+|--Machine Learning  
+
+   Machine Learning in Action.pdf  
+   
+   Pattern Recognition And Machine Learning - Springer  2006.pdf  
+   
+   西瓜书.pdf  
+
+|--Nerual Language Processing  
+
+   Natural Language Processing.pdf  
+   
+   Neural Network Methods in Natural Language Processing.pdf  
+   
+   Speech and Language Processing.pdf  
+
+|--Python  
+
+   Pandas.pdf  
+   
+   Python.pdf  
+   
+   Simulation.pdf  
+
